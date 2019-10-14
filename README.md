@@ -20,7 +20,7 @@
 ### 3. Mask original Japanese characters
 **U-net**
 
-### 4. Tranlation
+### 4. Translation
 **Google API**
 
 ![Demonstration](image/3.gif "Demonstration")
