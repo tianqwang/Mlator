@@ -1,8 +1,8 @@
 # MLator ![MLator Splash Screen](image/splash.png "Logo Title Text 1")
  
-# MLator is a project ]to supply the Manga industry with an alternative to slow, low quality automated translation and expensive human translation.
+MLator is a project ]to supply the Manga industry with an alternative to slow, low quality automated translation and expensive human translation.
 
-# It is an end to end product, with a backend which controls the logic of the application, a model which does the prediction for translation, and the front end which communicates between the user and the server.
+It is an end to end product, with a backend which controls the logic of the application, a model which does the prediction for translation, and the front end which communicates between the user and the server.
 
 
 ## Model 
