@@ -19,7 +19,7 @@ It is an end to end product, with a backend which controls the logic of the appl
 ### 3. Mask original Japanese characters
 **U-net**
 
-### 4. Tranlation
+### 4. Translation
 **Google API**
 
 ![Demonstration](image/3.gif "Demonstration")
